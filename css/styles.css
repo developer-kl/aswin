@@ -1,0 +1,175 @@
+body{
+margin: 0;
+font-family: 'Merriweather', serif;
+color: #2C2E43;
+}
+
+.top-container{
+  background-color: #C3BA85;
+  text-align: center;
+  padding: 15% 0 20%;
+}
+
+.profile-container{
+  background-color: #DAD5AB;
+  text-align: center;
+  padding-bottom: 3.125rem;
+}
+
+.games-container{
+  background-color: #F0F0CB;
+  padding-top: 1.875rem;
+  text-align: center;
+  padding-bottom: 3.125rem;
+}
+
+.gaming-friends-container{
+  background-color: #FEFFE2;
+  padding-top: 1.875rem;
+  text-align: center;
+}
+
+.contact-me{
+  background-color: #FFDAB9;
+}
+
+.footer-container{
+  background: #FA8072;
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 0.9;
+  color: #2C394B;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #595260;
+}
+h3,h4,h5,h6{
+  font-family: 'Montserrat', sans-serif;
+}
+.left-head-img{
+  left: 6.25rem;
+  position: absolute;
+  top: 6.25rem;
+  width: 25%;
+
+}
+
+.right-head-img{
+
+  width: 25%;
+  position: absolute;
+  top: 6.25rem;
+  right: 6.25rem;
+}
+
+.profile-img{
+  width: 15%;
+  margin-top: 3.125rem;
+}
+
+.para-profile{
+  width: 40%;
+  margin: auto;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+.games-row{
+  width: 50%;
+  margin: 1.875rem auto;
+
+}
+.freefire-img{
+  width: 25%;
+  float: left;
+  margin-right: 1.25rem;
+}
+
+.bombsquad-img{
+  width: 25%;
+  float: right;
+  margin-left: 1.25rem;
+}
+
+.dream-league-img{
+  width: 25%;
+  float: left;
+  margin-right: 1.25rem;
+}
+
+.mini-militia-img{
+  width: 25%;
+  float: right;
+  margin-left: 1.25rem;
+}
+
+.game-desc{
+  text-align: justify;
+  line-height: 2;
+}
+
+.game-head{
+  margin-bottom: 3.125rem;
+}
+
+/* .gaming-friends-container{
+
+} */
+
+.friends-row{
+  width: 22%;
+  display: inline-block;
+}
+
+.friend-img{
+  width: 25%;
+}
+
+.friend-head{
+  padding-bottom: 1.875rem;;
+}
+
+.contact-me{
+  padding-top: 1.875rem;;
+  text-align: center;
+  padding-bottom: 3.125rem;
+}
+
+.contact-para{
+  line-height: .5;
+}
+
+.mail-link{
+  color: #2C2E43;
+}
+
+.mail-link:hover{
+  color:blue;
+}
+
+.footer-container{
+  text-align: center;
+  padding-top: 1.875rem;;
+  padding-bottom: 1.875rem;;
+}
+
+a{
+  color: #FFDAB9;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin: 1.25rem;
+}
+
+a:hover{
+  color: #FEFFE2;
+  font-weight: bold;
+}
+
+.copyright{
+  color: grey;
+}
