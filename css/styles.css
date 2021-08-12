@@ -64,7 +64,7 @@ h3,h4,h5,h6{
   width: 25%;
   position: absolute;
   top: 6.25rem;
-  right: 6.25rem;
+  right: 4rem;
 }
 
 .profile-img{
@@ -142,6 +142,8 @@ h3,h4,h5,h6{
 
 .contact-para{
   line-height: .5;
+  font-family: 'Montserrat', sans-serif;
+
 }
 
 .mail-link{
